@@ -5,7 +5,7 @@ loop
 * Performance is comparable with that of the SBCL LOOP macro
 
 
-# Sample Code
+## Sample Code
 
 Loop in the range of 1-5:
 
